@@ -1,3 +1,17 @@
+Repository for bot that won 2 place at [AI Bot Battles](http://aicup.mf.grsu.by)
+===
+
+Source is in [`my_bot.py`](https://github.com/andrei-kh/sandbox-AI-Bot-Battle/blob/main/my_bot.py) file.
+
+## Algorithm:
+My bot uses `Minmax` algorithm with `Alpha-Beta` pruning to move. If it can circle around the apple it will use `Breadth-first search`.
+
+<br>
+
+## Previous README.md: 
+
+<br>
+
 Snake bot for tournament [AI Bot Battles](http://aicup.mf.grsu.by)
 ====
 
